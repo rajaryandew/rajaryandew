@@ -36,6 +36,9 @@
   <a href="https://x.com/rajaryandew" target="_blank">
     <img src="https://img.shields.io/badge/X-%40rajaryandew-000000?style=for-the-badge&logo=twitter" alt="X Badge"/>
   </a>
+  <a href="https://reddit.com/u/rajaryan_dew" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-u%2Frajaryan__dew-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </p>
 
 <p align="center">
