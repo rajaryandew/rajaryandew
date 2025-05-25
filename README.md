@@ -9,47 +9,91 @@
 ## 🚀 About Me
 
 🎯 **Who am I?**
-- A chill 14 y/o dev who codes for fun, learning, and leveling up.  
-- I build full-stack apps — not just for practice, but to *actually* understand stuff.  
-- Love clean UIs, smooth DX, and writing code that doesn’t look like spaghetti.
+- A curious 14 y/o dev exploring how things work under the hood  
+- I build full-stack apps to understand both the frontend and backend  
+- Into clean UIs, good DX, and code that’s simple but solid
 
 🧠 **How I Learn**
-- Docs > tutorials. I don’t just follow, I figure things out.  
-- I take it slow to understand the *why*, not just the *how*.  
-- No stress, just me vs bugs. And I win eventually 😤
+- Docs > tutorials — I like figuring things out hands-on  
+- I prefer depth over speed; taking my time to actually *get* it  
+- Coding’s fun, bugs are just puzzles
 
 🏀 **Outside the screen**
-- Big fan of sports. Gotta keep the body active while the brain's debugging!  
-- I’m all about balance — code, chill, play, repeat.
+- Big on sports and staying active  
+- I balance code, life, and play — one debug at a time
+
+---
+
+## ⚙️ My Tech Stack
+
+> Tools I actually use in projects. Focused on good **DX**, clean UI, and fast builds. Here's the lineup:
+
+### 🖼 Frontend
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-0F0F0F?style=for-the-badge&logo=radixui&logoColor=white" />
+</div>
+
+- **Next.js** – My go-to for full-stack projects, routing’s smooth, and I dig the app router setup  
+- **Tailwind CSS** – Fast AF for styling, helps me stay in the flow without jumping to CSS files  
+- **ShadCN UI** – Clean, accessible components that vibe with Tailwind & speed up builds
+
+### 🧩 Backend / DB
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+</div>
+
+- **PostgreSQL** – A solid and powerful relational DB, fits perfectly with most of my backend needs  
+- **Supabase** – Just works. Easy auth, instant APIs, and feels like Firebase but for devs who love SQL  
+
+---
+
+### 🧪 Tools I Use with These
+
+<div align="left">
+  <img src="https://img.shields.io/badge/VSCode-1C1C1C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Node.js-1C1C1C?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+</div>
+
+- **VS Code** – Clean setup with minimal extensions  
+- **Git** – Of course, version control is a must  
+- **Node.js** – Powering everything under the hood
+
+---
+
+## 🔮 Exploring Soon
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI_/_ML-1C1C1C?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+- **React Native** – Planning to build some social apps and learn cross-platform dev  
+- **AI/ML** – Curious about the math + logic behind it, will dive in once dev base is solid  
 
 ---
 
 ## 🔭 What I'm Up To
 
-🛠 **Current Stack**  
-Next.js • Tailwind • PostgreSQL • Supabase • ShadCN
-
-🧱 **What I’m building**
-- Full-stack projects from scratch (frontend, backend — the whole deal)  
-- Apps that feel nice to use *and* to code  
-- Clean architecture, smooth logic, and vibes
-
-📚 **What I'm learning**
-- Writing better, cleaner code  
-- Dev workflows that save time & stress  
-- Organizing projects like a pro (even tho I’m still just 14 😎)
+📚 **Currently Learning**  
+- Cleaner code practices & better project structure  
+- Dev workflows and organizing code like a pro  
 
 😌 **The Goal?**  
-Stay consistent, make dope stuff, and enjoy the journey.
+Stay consistent, keep building, and enjoy the journey.
 
 ---
 
 ## 🧘 My Dev Vibe
 
-> “Build what feels right. Learn slow. Code clean.”  
+> “Build what feels right. Learn slow. Code clean.”
 
-No clout-chasing. No fake hustle. Just doing my thing at my own pace.  
-If I’m building something, it’s ‘cause I *want* to — not for trends.
+Not in a race. Not chasing trends. Just doing what makes sense, one step at a time.
 
 ---
 
@@ -57,15 +101,15 @@ If I’m building something, it’s ‘cause I *want* to — not for trends.
 
 <p align="center">
   <a href="https://github.com/rajaryandew" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rajaryandew-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-rajaryandew-1C1C1C?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://x.com/rajaryandew" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-rajaryandew-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-rajaryandew-1C1C1C?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://reddit.com/u/rajaryan_dew" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-rajaryan__dew-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reddit-rajaryan__dew-1C1C1C?style=for-the-badge&logo=reddit&logoColor=FF4500"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-rajaryandew-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-rajaryandew-1C1C1C?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </p>
 
 ---
@@ -87,5 +131,6 @@ If I’m building something, it’s ‘cause I *want* to — not for trends.
 
 <p align="center">
   <b>Check out the projects below or drop a star if you're vibin' ⭐<br/>
-  Always open to collab, chat, or just geek out on something cool 💬</b>
+  Always down to connect, collab, or chat about cool ideas 💬</b>
 </p>
+
