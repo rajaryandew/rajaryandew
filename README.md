@@ -110,7 +110,7 @@ Not in a race. Not chasing trends. Just doing what makes sense, one step at a ti
   <a href="https://x.com/rajaryandew" target="_blank">
     <img src="https://img.shields.io/badge/X-rajaryandew-1C1C1C?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://discord.com/user/rajaryandew" target="_blank">
+  <a href="https://discord.com/users/rajaryandew" target="_blank">
     <img src="https://img.shields.io/badge/Discord-rajaryandew-1C1C1C?style=for-the-badge&logo=discord&logoColor=5865F2"/>
   </a>
 </p>
