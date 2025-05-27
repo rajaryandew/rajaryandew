@@ -32,23 +32,29 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/ShadCN_UI-0F0F0F?style=for-the-badge&logo=radixui&logoColor=white" />
 </div>
 
-- **Next.js** – My go-to for full-stack projects, routing’s smooth, and I dig the app router setup  
-- **Tailwind CSS** – Fast AF for styling, helps me stay in the flow without jumping to CSS files  
-- **ShadCN UI** – Clean, accessible components that vibe with Tailwind & speed up builds
+- **Next.js** – My go-to framework for full-stack apps. Built on React, gives structure, routing, and server stuff without the hassle  
+- **React** – The core of my frontend skills. Whether it's powering a Next.js project or a standalone SPA, it's always in the mix  
+- **Tailwind CSS** – Utility-first and fast. I rarely touch plain CSS now  
+- **ShadCN UI** – Prebuilt but clean components that save time and look good outta the box
 
 ### 🧩 Backend / DB
 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Express.js-1C1C1C?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </div>
 
 - **PostgreSQL** – A solid and powerful relational DB, fits perfectly with most of my backend needs  
 - **Supabase** – Just works. Easy auth, instant APIs, and feels like Firebase but for devs who love SQL  
+- **Express.js** – Learned the basics for building simple APIs  
+- **MongoDB** – Got the basics down for handling flexible data
 
 ---
 
@@ -105,9 +111,6 @@ Not in a race. Not chasing trends. Just doing what makes sense, one step at a ti
   </a>
   <a href="https://x.com/rajaryandew" target="_blank">
     <img src="https://img.shields.io/badge/X-rajaryandew-1C1C1C?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://reddit.com/u/rajaryan_dew" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-rajaryan__dew-1C1C1C?style=for-the-badge&logo=reddit&logoColor=FF4500"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-rajaryandew-1C1C1C?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </p>
