@@ -46,13 +46,11 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/Express.js-1C1C1C?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </div>
 
-- **PostgreSQL** – A solid and powerful relational DB, fits perfectly with most of my backend needs  
-- **Supabase** – Just works. Easy auth, instant APIs, and feels like Firebase but for devs who love SQL  
+- **PostgreSQL** – A solid and powerful relational DB, fits perfectly with most of my backend needs   
 - **Express.js** – Learned the basics for building simple APIs  
 - **MongoDB** – Got the basics down for handling flexible data
 
