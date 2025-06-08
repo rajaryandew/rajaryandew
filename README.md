@@ -86,7 +86,8 @@
 
 📚 **Currently Learning**  
 - Cleaner code practices & better project structure  
-- Dev workflows and organizing code like a pro  
+- Dev workflows and organizing code like a pro
+- UI/UX fundamentals to make my apps feel right, not just work right
 
 😌 **The Goal?**  
 Stay consistent, keep building, and enjoy the journey.
