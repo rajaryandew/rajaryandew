@@ -48,11 +48,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=white" />    
   <img src="https://img.shields.io/badge/Express.js-1C1C1C?style=for-the-badge&logo=express&logoColor=white" />    
   <img src="https://img.shields.io/badge/MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=47A248" />    
+  <img src="https://img.shields.io/badge/Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=DC382D" />  
 </div>    
     
 - **PostgreSQL** – A solid and powerful relational DB, fits perfectly with most of my backend needs       
 - **Express.js** – Learned the basics for building simple APIs      
-- **MongoDB** – Got the basics down for handling flexible data    
+- **MongoDB** – Got the basics down for handling flexible data
+- **Redis** – Blazing fast in-memory data store. Great for caching, real-time stuff, and wherever low-latency matters ⚡
     
 ### 🔧 Tooling & Runtime    
     
