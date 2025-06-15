@@ -79,7 +79,7 @@
 
 ---
 
-## 🔮 Exploring Soon
+## 🧪 Next Up
 
 <div align="left">      
   <img src="https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB" />      
@@ -96,6 +96,7 @@
 - Better code organization & project structure  
 - Dev workflows (CI/CD, env setups, etc.)  
 - UI/UX principles that *feel* right  
+- Reading *The Pragmatic Programmer* to sharpen dev mindset 🧠📘  
 
 ---
 
