@@ -12,7 +12,6 @@
 - 🧩 Into clean UIs, smooth DX, and writing code that’s simple but solid  
 - ⚙️ Refactor-first mindset — always improving how I build stuff  
 - 📚 Learning things deeply over quickly — bugs are just puzzles tbh  
-- 🏀 Sports keeps me sane when I’m not shipping features  
 
 ---
 
