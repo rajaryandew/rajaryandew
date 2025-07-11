@@ -131,7 +131,7 @@
     <img src="https://img.shields.io/badge/X-rajaryandew-1C1C1C?style=for-the-badge&logo=x&logoColor=white"/>      
   </a> &nbsp;
   <br/>
-  <a href="https://discord.com/users/rajaryandew" target="_blank">      
+  <a href="https://discord.com/users/joblessraj" target="_blank">      
     <img src="https://img.shields.io/badge/Discord-rajaryandew-1C1C1C?style=for-the-badge&logo=discord&logoColor=5865F2"/>      
   </a>&nbsp;
   <a href="https://leetcode.com/rajaryandew/" target="_blank">
