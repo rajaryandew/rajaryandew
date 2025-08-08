@@ -81,11 +81,11 @@
 ## 🧪 Next Up
 
 <div align="left">      
-  <img src="https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react&logoColor=61DAFB" />      
+  <img src="https://img.shields.io/badge/Flutter-1C1C1C?style=flat&logo=flutter&logoColor=white" />      
   <img src="https://img.shields.io/badge/AI_/_ML-1C1C1C?style=for-the-badge&logo=openai&logoColor=white" />      
 </div>      
 
-- React Native (for mobile dev vibes)  
+- Flutter (for mobile dev)  
 - AI/ML (once I’m confident in the math side)  
 
 ---
