@@ -81,7 +81,7 @@
 ## 🧪 Next Up
 
 <div align="left">      
-  <img src="https://img.shields.io/badge/Flutter-1C1C1C?style=flat&logo=flutter&logoColor=white" />      
+  <img src="https://img.shields.io/badge/Flutter-1C1C1C?style=for-the-badge&logo=flutter&logoColor=white" />      
   <img src="https://img.shields.io/badge/AI_/_ML-1C1C1C?style=for-the-badge&logo=openai&logoColor=white" />      
 </div>      
 
